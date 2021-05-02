@@ -1,3 +1,3 @@
 # Unicorn-Race
 
-A simple platformer made during a GameJam
+A simple platformer made in Unity during a GameJam
